@@ -408,6 +408,6 @@ submitBtn.addEventListener('click', function () {
 
   msg += 'Quedo a la espera de la cotizacion. Gracias!';
 
-  window.open('https://wa.me/3217676571?text=' + encodeURIComponent(msg), '_blank');
+  window.open('https://wa.me/573217676571?text=' + encodeURIComponent(msg), '_blank');
   showAlert('Redirigiendo a WhatsApp! Si no abre, permita ventanas emergentes.', 'success');
 });
